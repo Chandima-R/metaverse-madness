@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/components/StartSteps.jsx", "src/components/NewFeatures.jsx", "src/components/Navbar.jsx", "src/components/InsightCard.jsx", "src/components/index.js", "src/components/Footer.jsx", "src/components/ExploreCard.jsx", "src/components/CustomTexts.jsx", "src/constants/index.js", "src/utils/motion.js", "src/sections/World.jsx", "src/sections/WhatsNew.jsx", "src/sections/Insights.jsx", "src/sections/index.js", "src/sections/Hero.jsx", "src/sections/GetStarted.jsx", "src/sections/Feedback.jsx", "src/sections/Explore.jsx", "src/sections/About.jsx"],
   "exclude": ["node_modules"]
 }
